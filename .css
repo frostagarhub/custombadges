@@ -1,0 +1,11 @@
+#chat-messages .fromID-25259357 .badge-box i,
+#chat-messages .id-25259357 .badge-box i {
+    background-image: url(https://res.cloudinary.com/hhberclba/image/upload/c_fill,f_auto,fl_lossy,h_200,q_75,w_200/v1487561461/user/560b4b2e3ace7e0300d9c744.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
